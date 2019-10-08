@@ -1,5 +1,5 @@
 {
-  "name": "hellocucumber",
+  "name": "demo-cucumber",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,9 +7,9 @@
     "test": "./node_modules/.bin/cucumber-js"
   },
   "keywords": [],
-  "author": "",
+  "author": "renaco",
   "license": "ISC",
   "devDependencies": {
-    "cucumber": "^5.1.0"
+    "cucumber": "6.0.1"
   }
 }
